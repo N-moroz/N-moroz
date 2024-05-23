@@ -4,34 +4,29 @@ N-moroz/N-moroz is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="uk">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>Правила спорту</title>
 </head>
 <body>
-    <h1>Ласкаво просимо до спорту </h1>
+    <h1>Ласкаво просимо до Правил Спорту</h1>
     <div>
         <h2>Футбол</h2>
-        <a href="football.html">
-            <img src="football.jpg" alt="Football" style="width:200px;height:150px;">
-        </a>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dw.com%2Fru%2Fsbornaja-ukrainy-vpervye-v-istorii-vyshla-iz-gruppy-na-che-po-futbolu%2Fa-58023477&psig=AOvVaw2qLkKHgOiCcvVNkFpt1pUB&ust=1716567809064000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDi1cWXpIYDFQAAAAAdAAAAABAE" alt="Футбол">
     </div>
     <div>
         <h2>Хокей</h2>
-        <a href="hockey.html">
-            <img src="hockey.jpg" alt="Hockey" style="width:200px;height:150px;">
-        </a>
+        <img src="https://pic.sport.ua/images/news/0/13/87/orig_537589.jpg" alt="Хокей" style="width:660px;height:440px;">
     </div>
     <div>
         <h2>Теніс</h2>
-        <a href="tennis.html">
-            <img src="tennis.jpg" alt="Tennis" style="width:200px;height:150px;">
-        </a>
+        <img src="https://rudana.com.ua/sites/default/files/styles/news_picture/public/news_images/5c1660dbf3d1b_1544970459.jpg" alt="Теніс" style="width:960px;height:440px;">
     </div>
 </body>
 </html>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <body>
     <h1>Правила для гри у фотбол</h1>
     <p>У футбол грають дві команди по одинадцять гравців зі сферичним м’ячем. Гра триває 90 хвилин, розділених на два тайми по 45 хвилин. Мета — забити, влучивши м’яч у ворота суперника.</p>
-    <a href="index.html">Back to Home</a>
+    <a href="index.html">Назад на головну</a>
 </body>
 </html>
 <!DOCTYPE html>
@@ -57,7 +52,7 @@ You can click the Preview link to take a look at your changes.
     <p>У хокей грають на льоду між двома командами по шість гравців у кожній. Гра проводиться в три періоди по 20 хвилин. Мета - забивати голи, влучаючи шайбу у ворота суперника.
 
 </p>
-    <a href="index.html">Back to Home</a>
+    <a href="index.html">Назад на головну</a>
 </body>
 </html>
 <!DOCTYPE html>
@@ -70,6 +65,6 @@ You can click the Preview link to take a look at your changes.
 <body>
     <h1>Правила для гри у теніс</h1>
     <p>У теніс грають два гравці (одиночний розряд) або дві команди по два гравці (парний розряд). Гра проводиться на прямокутному майданчику з сіткою посередині. Мета полягає в тому, щоб вдарити м’яч через сітку на майданчик суперника таким чином, щоб він не зміг його повернути.</p>
-    <a href="index.html">Back to Home</a>
+    <a href="index.html">Назад на головну</a>
 </body>
 </html>
