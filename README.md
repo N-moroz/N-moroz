@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
     <h1>Ласкаво просимо до Правил Спорту</h1>
     <div>
         <h2>Футбол</h2>
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dw.com%2Fru%2Fsbornaja-ukrainy-vpervye-v-istorii-vyshla-iz-gruppy-na-che-po-futbolu%2Fa-58023477&psig=AOvVaw2qLkKHgOiCcvVNkFpt1pUB&ust=1716567809064000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDi1cWXpIYDFQAAAAAdAAAAABAE" alt="Футбол">
+        <img src="https://s.ill.in.ua/i/news/630x373/503/503583.jpg" alt="Футбол">
     </div>
     <div>
         <h2>Хокей</h2>
@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
     </div>
 </body>
 </html>
+
 
 <!DOCTYPE html>
 <html lang="en">
